@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there, I'm Mazza, and it's nice to see you here! 👋</h1>
 
-- 🔭 I’m searching for job oportunities
-- 🌱 I'm currently learning ReactJS and have experience with NodeJS
+- 🔭 I’m a Fullstack developer
+- 🌱 I'm currently learning Java and have experience with Typescript, NodeJS, ReactJS, Python and FastAPI
 - 📫 Contact: vtrujillomazza@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=Mazzael&label=Profile%20views&color=0e75b6&style=flat" alt="Mazzael" /> ![GitHub followers](https://img.shields.io/github/followers/Mazzael) ![GitHub User's stars](https://img.shields.io/github/stars/Mazzael)
